@@ -62,3 +62,10 @@ The application will be available at http://localhost:8501.
 * Click the submit button to get answers based on the content of the PDF.
 * Interaction with PDF Content
 * The application extracts text from the PDF, indexes it in Chroma, and uses the Ollama model to answer queries about the content.
+  
+##
+<img width="1466" alt="Screenshot 2024-09-13 at 7 48 34 PM" src="https://github.com/user-attachments/assets/b7b534ca-3840-4d69-8296-46d4df386ab2">
+
+##
+
+<img width="905" alt="Screenshot 2024-09-13 at 7 48 44 PM" src="https://github.com/user-attachments/assets/4084b1bd-2d86-4e85-a370-8fdf3ed6a32c">
