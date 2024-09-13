@@ -24,8 +24,8 @@ The **DocuBot** is a web app that enables users to upload PDF files, extract tex
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/0xpriyanshujha/streamlit-pdf-chat-app.git
-cd streamlit-pdf-chat-app
+git clone https://github.com/0xpriyanshujha/Docuhub.git
+cd Docuhub
 ```
 ### 2. Create and Activate a Virtual Environment
 Create a virtual environment to manage dependencies:
@@ -44,13 +44,12 @@ pip install -r requirements.txt
 If you want to run the application in a Docker container:
 Build the Docker Image
 ```bash
-Copy code
-docker build -t streamlit-pdf-chat-app .
+docker build -t Docuhub .
 Run the Docker Container
 ```
 
 ```bash
-docker run -p 8501:8501 streamlit-pdf-chat-app
+docker run -p 8501:8501 Docuhub
 The application will be available at http://localhost:8501.
 ```
 
